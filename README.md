@@ -1,4 +1,4 @@
-# Tadas's Home Assistant Add-ons
+# Tadas' Home Assistant Add-ons
 
 This repository contains my personal Raspihats add-on for Home Assistant. 
 
